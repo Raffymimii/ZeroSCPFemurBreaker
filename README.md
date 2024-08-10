@@ -28,7 +28,7 @@ Nope again.
 This plugin is licensed under the MIT License.
 
 ## Credits
-Plugin created by *Raffymimi*
+Plugin created by [Raffymimi](https://github.com/Raffymimii)
 
 ## Support
 If you encounter any issues or have any questions, feel free to create an issue on the GitHub repository.
